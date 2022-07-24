@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: br.com.alura.linguagensapi.LinguagensApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.508 s <<< FAILURE! - in br.com.alura.linguagensapi.LinguagensApiApplicationTests
+br.com.alura.linguagensapi.LinguagensApiApplicationTests  Time elapsed: 0.506 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
